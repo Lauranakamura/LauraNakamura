@@ -1,7 +1,7 @@
 ## Laura Nakamura 👋
 
 - 🌱 I’m currently learning Java, JavaScript, C#, C++, Node.Js, HTML5/CSS3, SQL Server.
-- 📖 Studiyng Data Processing at Colégio Técnico de Campinas - Unicamp
+- 📖 Studying at Colégio Técnico de Campinas
 
  | [📈 Github Profile Stats](https://github.com/Lauranakamura/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/Lauranakamura/github-readme-stats#top-languages-card) |
 | :---: | :---: |
