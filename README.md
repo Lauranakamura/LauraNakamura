@@ -1,6 +1,6 @@
 ## Hii, I'm Laura Nakamura
 
-🤝 Connect with me:
+📞 Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benneth-urich-555731270/)](https://www.linkedin.com/in/laura-nakamura-288b5324b/) 
 [![Gmail Badge ](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:lauranakamuraml@gmail.com)](mailto:lauranakumraml@gmail.com)
